@@ -1,0 +1,14 @@
+# Home Credit Kaggle datasets
+application_train.csv
+application_test.csv
+sample_submission.csv
+
+# Ignore all CSV files
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
